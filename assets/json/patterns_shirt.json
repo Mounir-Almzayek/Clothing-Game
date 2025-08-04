@@ -1,0 +1,111 @@
+{
+  "patterns": [
+    [
+      [[], [], [], []],
+      [
+        [],
+        [
+          {"id": "1_1", "fh": false, "fv": false, "pr": 0},
+          {"id": "1_0", "fh": false, "fv": true,  "pr": 1},
+          {"id": "0_0", "fh": true,  "fv": true,  "pr": 2},
+          {"id": "0_1", "fh": true,  "fv": false, "pr": 3}
+        ],
+        [
+          {"id": "1_2", "fh": false, "fv": false, "pr": 0},
+          {"id": "1_3", "fh": false, "fv": true,  "pr": 1},
+          {"id": "0_3", "fh": true,  "fv": true,  "pr": 2},
+          {"id": "0_2", "fh": true,  "fv": false, "pr": 3}
+        ],
+        []
+      ]
+    ],
+    [
+      [
+        [],
+        [
+          {"id": "1_1", "fh": true,  "fv": false, "pr": 0},
+          {"id": "1_0", "fh": true,  "fv": true,  "pr": 1},
+          {"id": "0_0", "fh": false, "fv": true,  "pr": 2},
+          {"id": "0_1", "fh": false, "fv": false, "pr": 3}
+        ],
+        [
+          {"id": "1_2", "fh": true,  "fv": false, "pr": 0},
+          {"id": "1_3", "fh": true,  "fv": true,  "pr": 1},
+          {"id": "0_3", "fh": false, "fv": true,  "pr": 2},
+          {"id": "0_2", "fh": false, "fv": false, "pr": 3}
+        ],
+        []
+      ],
+      [[], [], [], []]
+    ],
+    [
+      [
+        [],
+        [
+          {"id": "1_1", "fh": true,  "fv": false, "pr": 0},
+          {"id": "1_2", "fh": true,  "fv": true,  "pr": 1},
+          {"id": "1_3", "fh": true,  "fv": false, "pr": 2},
+          {"id": "1_0", "fh": true,  "fv": true,  "pr": 3},
+          {"id": "0_0", "fh": false, "fv": true,  "pr": 4},
+          {"id": "0_3", "fh": false, "fv": false, "pr": 5},
+          {"id": "0_2", "fh": false, "fv": true,  "pr": 6},
+          {"id": "0_1", "fh": false, "fv": false, "pr": 7}
+        ],
+        [],
+        []
+      ],
+      [[], [], [], []]
+    ],
+    [
+      [
+        [], [],
+        [
+          {"id": "1_2", "fh": true,  "fv": false, "pr": 0},
+          {"id": "1_1", "fh": true,  "fv": true,  "pr": 1},
+          {"id": "1_0", "fh": true,  "fv": false, "pr": 2},
+          {"id": "1_3", "fh": true,  "fv": true,  "pr": 3},
+          {"id": "0_3", "fh": false, "fv": true,  "pr": 4},
+          {"id": "0_0", "fh": false, "fv": false, "pr": 5},
+          {"id": "0_1", "fh": false, "fv": true,  "pr": 6},
+          {"id": "0_2", "fh": false, "fv": false, "pr": 7}
+        ],
+        []
+      ],
+      [[], [], [], []]
+    ],
+    [
+      [[], [], [], []],
+      [
+        [],
+        [
+          {"id": "1_1", "fh": false, "fv": false, "pr": 0},
+          {"id": "1_2", "fh": false, "fv": true,  "pr": 1},
+          {"id": "1_3", "fh": false, "fv": false, "pr": 2},
+          {"id": "1_0", "fh": false, "fv": true,  "pr": 3},
+          {"id": "0_0", "fh": true,  "fv": true,  "pr": 4},
+          {"id": "0_3", "fh": true,  "fv": false, "pr": 5},
+          {"id": "0_2", "fh": true,  "fv": true,  "pr": 6},
+          {"id": "0_1", "fh": true,  "fv": false, "pr": 7}
+        ],
+        [], []
+      ]
+    ],
+    [
+      [[], [], [], []],
+      [
+        [], [],
+        [
+          {"id": "1_2", "fh": false, "fv": false, "pr": 0},
+          {"id": "1_1", "fh": false, "fv": true,  "pr": 1},
+          {"id": "1_0", "fh": false, "fv": false, "pr": 2},
+          {"id": "1_3", "fh": false, "fv": true,  "pr": 3},
+          {"id": "0_3", "fh": true,  "fv": true,  "pr": 4},
+          {"id": "0_0", "fh": true,  "fv": false, "pr": 5},
+          {"id": "0_1", "fh": true,  "fv": true,  "pr": 6},
+          {"id": "0_2", "fh": true,  "fv": false, "pr": 7}
+        ],
+        []
+      ]
+    ]
+  ]
+}
